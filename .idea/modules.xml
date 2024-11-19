@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JOEL.iml" filepath="$PROJECT_DIR$/JOEL.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" filepath="$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" filepath="$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" filepath="$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelEtsJove/JoelEtsJove.iml" filepath="$PROJECT_DIR$/JoelEtsJove/JoelEtsJove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelGranPetit/JoelGranPetit.iml" filepath="$PROJECT_DIR$/JoelGranPetit/JoelGranPetit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" filepath="$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelPaAmbTomaquet/JoelPaAmbTomaquet.iml" filepath="$PROJECT_DIR$/JoelPaAmbTomaquet/JoelPaAmbTomaquet.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelQuadrat/JoelQuadrat.iml" filepath="$PROJECT_DIR$/JoelQuadrat/JoelQuadrat.iml" />
     </modules>

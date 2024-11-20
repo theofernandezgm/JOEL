@@ -1,0 +1,13 @@
+L'euro (EUR o €) és la moneda oficial de disset països de la Unió Europea (UE). El nom d'euro va ser aprovat pel Consell Europeu en la reunió celebrada a Madrid els dies 15 i 16 de desembre de 1995. Les monedes i bitllets d'Euro van entrar en circulació l'1 de gener de 2002 en els 12 estats de la Unió Europea que van adoptar l'euro en aquell any.
+
+Hi ha vuit denominacions de monedes d'euro, que van des d'un cèntim a dos euros (l'euro es divideix en cent cèntims).
+
+Dissenyeu un programa que, donat un nombre enter pel teclat que representa un import en cèntims d’euro, ho descompongui en monedes. Així doncs, minimitzant el nombre de monedes ha de retornar el nombre de monedes de dos euros, un euro, cinquanta cèntims, vint cèntims, deu cèntims, cinc cèntims, dos cèntims i un cèntim necessaris per representar l'import.
+
+Entrada
+L'entrada serà un nombre enter entre 0 i 999
+
+Sortida
+Nombre de monedes de dos euros, un euro, cinquanta cèntims, vint cèntims, deu cèntims, cinc cèntims, dos cèntims i un cèntim necessaris per representar l'import de l'entrada.
+
+Una linia per moneda.

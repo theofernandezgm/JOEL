@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JOEL.iml" filepath="$PROJECT_DIR$/JOEL.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelBambino/JoelBambino.iml" filepath="$PROJECT_DIR$/JoelBambino/JoelBambino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelBarretHogwarts/JoelBarretHogwarts.iml" filepath="$PROJECT_DIR$/JoelBarretHogwarts/JoelBarretHogwarts.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" filepath="$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelCercarTrios/JoelCercarTrios.iml" filepath="$PROJECT_DIR$/JoelCercarTrios/JoelCercarTrios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelDiaMes/JoelDiaMes.iml" filepath="$PROJECT_DIR$/JoelDiaMes/JoelDiaMes.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelDiesCorrectes/JoelDiesCorrectes.iml" filepath="$PROJECT_DIR$/JoelDiesCorrectes/JoelDiesCorrectes.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" filepath="$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" filepath="$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" />
@@ -16,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" filepath="$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelMonedesEuro/JoelMonedesEuro.iml" filepath="$PROJECT_DIR$/JoelMonedesEuro/JoelMonedesEuro.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelNota10/JoelNota10.iml" filepath="$PROJECT_DIR$/JoelNota10/JoelNota10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelOkBoomer/JoelOkBoomer.iml" filepath="$PROJECT_DIR$/JoelOkBoomer/JoelOkBoomer.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelOsShipeo/JoelOsShipeo.iml" filepath="$PROJECT_DIR$/JoelOsShipeo/JoelOsShipeo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelPaAmbTomaquet/JoelPaAmbTomaquet.iml" filepath="$PROJECT_DIR$/JoelPaAmbTomaquet/JoelPaAmbTomaquet.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelParchis/JoelParchis.iml" filepath="$PROJECT_DIR$/JoelParchis/JoelParchis.iml" />

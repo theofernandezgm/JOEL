@@ -1,0 +1,8 @@
+En el Texas Hold'em, posen 3 cartes a sobre la taula. Si les 3 cartes fan un trio ja directament, aleshores la gent es torna boja.
+
+Entrada
+Cada cas és de tres línies, i conté un número en cada línia, C1,C2,C3
+ , entre 1 i 13
+
+Sortida
+Per cada cas es dira "SI" si les tres cartes son iguals i "NO" en cas contrari

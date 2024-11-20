@@ -1,0 +1,12 @@
+Has entrat a Hogwarts! Ara el barret escollirà la teva casa. El barret et pregunta: Què és el més important per a tu? De la teva resposta dependrà la teva casa.
+
+Entrada
+Cada cas és d'una línea, i conté una string, la teva resposta.
+
+Sortida
+Depenent de la resposta el barret dirà una cosa o una altra
+
+Si es diu "Coratge", dirà "Gryffindor"
+Si es diu "Coneixement", dirà "Ravenclaw"
+Si es diu "Ambicio", dirà "Slytherin"
+Si es diu qualsevol altra cosa, dirà "Hufflepuff"

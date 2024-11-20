@@ -1,0 +1,7 @@
+Se't dona un número i has de dir el mes al que pertany si es comencés a comptar des de l'1 de gener.
+
+Entrada
+Cada cas consisteix en un número de l'1 al 365.
+
+Sortida
+Per cada cas es respondrà amb el més, sent 1 el mes de gener i 12 el mes de desembre. Es considera que febrer té 28 dies.

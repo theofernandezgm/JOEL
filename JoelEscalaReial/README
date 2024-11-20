@@ -1,0 +1,11 @@
+En el Poker Texas Hold’em, al final de la partida jugues amb 7 cartes (les dues a la teva ma i les 5 del flop). Un cop fet això es calcula quina jugada tens. Les escales i les escales Reials son de les millors jugades possibles
+
+Una escala es quan tens 5 cartes consecutives dintre de les 7.
+
+Una escala reial es quan tens just 10, Jack, Reina, Rei, i As
+
+Entrada
+La primera línia indica els casos de prova a considerar Cada cas de prova és una linea amb 7 nombres del 1 al 13, indicant les teves dues cartes a la ma i les 5 del flop. És irrelevant quina es quina. Jack és 11, Reina es 12, i Rei es 13. L’as es 1
+
+Sortida
+Per a cada cas hauràs de dir si tens una escala, escala reial, o no tens res

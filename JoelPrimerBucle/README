@@ -1,0 +1,7 @@
+Per què preferiu fer exercicis d'ifs d'un punt? Els de bucles en donen dos!
+
+Entrada
+La primera línia indica els casos de prova a considerar. Cada cas és una línia amb un nombre.
+
+Sortida
+Per cada cas de prova caldrà respondre: El nombre introduït més un.

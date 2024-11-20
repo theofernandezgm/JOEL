@@ -1,0 +1,7 @@
+Els Baby Boomers (coneguts com a boomers) són aquells nascuts entre 1945 i 1965. S'ha posat de moda cabrejar-los dient-lis "ok boomer"
+
+Entrada
+Cada cas es de una línea, i conté un nombre, l'any de naixement, entre 1 i 2020.
+
+Sortida
+Sí l'any està entre 1945 i 1965, incloent els dos, es dirà "ok boomer"; en cas contrari, es dirà "nah"

@@ -1,0 +1,11 @@
+Un número és divisible entre 6 si ho és per 2 i 3, i entre 9 si sumes els seus dígits... no m'enrecordo. Fes un programa que faci això i jo em dedico a memoritzar les estadístiques del meu personatge al WorldofWarcraft
+
+Entrada
+Cada cas és d'una línea, i conté un número N
+
+Sortida
+Per cada cas es dira "SI" si N
+ és divisible per 1,2,3,4,5,6,7,8,9
+ i "NO" en cas contrari
+
+psst, realment només cal comprovar 4 divisors.

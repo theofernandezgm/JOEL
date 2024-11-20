@@ -1,0 +1,7 @@
+Et donen una seqüència de números enters que s'acaba amb un zero. Volem saber si tenim més números positius que negatius o al inrevés.
+
+Entrada
+L'entrada consta d'una seqüencia de números enters que s'acaba en un zero.
+
+Sortida
+Indicarà POSITIUS si hi ha més positius que negatius, NEGATIUS si hi ha més valors negatius i IGUALS en cas d'empat.

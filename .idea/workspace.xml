@@ -5,39 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0aebb64-5eb3-485e-a85e-949c02ceb863" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoelEscriureMatriu/JoelEscriureMatriu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoelIndexMatriu/JoelIndexMatriu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoelMaximMatrius/JoelMaximMatrius.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoelModificarMatriu/JoelModificarMatriu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoelNotesMatrius/JoelNotesMatrius.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JOEL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JOEL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelBambino/JoelBambino.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelBambino/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelBambino/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelBarretHogwarts/JoelBarretHogwarts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelBarretHogwarts/JoelBarretHogwarts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelCaramelsSobrants/JoelCaramelsSobrants.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelCercarTrios/JoelCercarTrios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelCercarTrios/JoelCercarTrios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelDiaMes/JoelDiaMes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelDiaMes/JoelDiaMes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelDiesCorrectes/JoelDiesCorrectes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelDiesCorrectes/JoelDiesCorrectes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelDivisible10/JoelDivisible10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelEleccions/JoelEleccions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelEscalaReial/JoelEscalaReial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelEscalaReial/JoelEscalaReial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelEtsJove/JoelEtsJove.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelEtsJove/JoelEtsJove.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelEuler/JoelEuler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelEuler/JoelEuler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelGranPetit/JoelGranPetit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelGranPetit/JoelGranPetit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelJordina/JoelJordina.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelMajorasMask/JoelMajorasMask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelMonedesEuro/JoelMonedesEuro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelMonedesEuro/JoelMonedesEuro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelNota10/JoelNota10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelNota10/JoelNota10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelOkBoomer/JoelOkBoomer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelOkBoomer/JoelOkBoomer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelOsShipeo/JoelOsShipeo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelOsShipeo/JoelOsShipeo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelParchis/JoelParchis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelParchis/JoelParchis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelParellsSenars/JoelParellsSenars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelParellsSenars/JoelParellsSenars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelPedraPaperTisores/JoelPedraPaperTisores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelPedraPaperTisores/JoelPedraPaperTisores.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelPresidentPatata/JoelPresidentPatata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelPresidentPatata/JoelPresidentPatata.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelPrimerBucle/JoelPrimerBucle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelPrimerBucle/JoelPrimerBucle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelPrimiGrossa/JoelPrimiGrossa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelPrimiGrossa/JoelPrimiGrossa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelQuadrant/JoelQuadrant.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelQuadrant/JoelQuadrant.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoelSimaPositiusNegatius/JoelSimaPositiusNegatius.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JoelSimaPositiusNegatius/JoelSimaPositiusNegatius.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +41,16 @@
     &quot;accountId&quot;: &quot;523e8916-dfca-420a-862c-adeb2a525c8e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -87,16 +71,18 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/theof/IdeaProjects/JOEL",
-    "onboarding.tips.debug.path": "C:/Users/theof/IdeaProjects/JOEL/JoelSumaMatrius/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/theof/IdeaProjects/JOEL/JoelIndexMatriu/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -202,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733135864754</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1733136125575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733136125575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1733136186646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733136186646</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,11 +254,6 @@
           <url>file://$PROJECT_DIR$/JoelParellsSenars/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JoelSimaPositiusNegatius/src/Main.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JoelPresidentPatata/src/Main.java</url>

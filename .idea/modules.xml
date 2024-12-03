@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JOEL.iml" filepath="$PROJECT_DIR$/JOEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelEscriureMatriu/JoelEscriureMatriu.iml" filepath="$PROJECT_DIR$/JoelEscriureMatriu/JoelEscriureMatriu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelIndexMatriu/JoelIndexMatriu.iml" filepath="$PROJECT_DIR$/JoelIndexMatriu/JoelIndexMatriu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelMaximMatrius/JoelMaximMatrius.iml" filepath="$PROJECT_DIR$/JoelMaximMatrius/JoelMaximMatrius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelModificarMatriu/JoelModificarMatriu.iml" filepath="$PROJECT_DIR$/JoelModificarMatriu/JoelModificarMatriu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelNotesMatrius/JoelNotesMatrius.iml" filepath="$PROJECT_DIR$/JoelNotesMatrius/JoelNotesMatrius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoelSumaMatriu/JoelSumaMatriu.iml" filepath="$PROJECT_DIR$/JoelSumaMatriu/JoelSumaMatriu.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoelSumaMatrius/JoelSumaMatrius.iml" filepath="$PROJECT_DIR$/JoelSumaMatrius/JoelSumaMatrius.iml" />
     </modules>
   </component>
